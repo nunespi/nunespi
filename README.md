@@ -15,7 +15,9 @@
 - **Frameworks:** ![Express](https://img.shields.io/badge/express.js-20232A?style=for-the-badge&logo=express)
 - **ORM:** ![sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
 - **Database:** ![postgresql](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
-- **Testing:** ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman) 
+- **Testing:** ![postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
+
+### One of the latest projects: [Thothex.hackathon](https://thothex.com/)
 
 <h2 align="center">💬 Find me:</h2>
 <p align="center" align='right'>
