@@ -1,5 +1,6 @@
 ### Hi there! My name is Lia Tazetdinova 🌚
-#### I'm a web-developer from Moscow, Russia
+#### I'm a web-developer.
+
 #### My stack of technologies:
 ##### Frontend:
 - **Programming languages:**  JavaScript, TypeScript 
