@@ -1,4 +1,3 @@
-#### My stack of technologies:
 ##### Frontend:
 - **Programming languages:**  JavaScript, TypeScript 
 - **Layout:** HTML
